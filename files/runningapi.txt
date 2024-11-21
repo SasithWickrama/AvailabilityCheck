@@ -1,0 +1,8 @@
+FIELD_APP localhost 8450
+MOBITEL_OCS localhost 20001
+OSSDEV_API localhost 22550
+MAIL_API localhost 22555
+SMS_SERVICE localhost 33450
+WFM_SERVICE localhost 33460
+RIBE_PROVISION localhost 33475
+PROVISION_API localhost 34485
